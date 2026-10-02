@@ -215,3 +215,7 @@ MIT License - Feel free to use this template for your projects.
 ---
 
 Built with ❤️ using React, TypeScript, and Vite
+
+---
+
+Built by [Girish Lade](https://ladestack.in) — part of the [LadeStack](https://ladestack.in) family of free tools.
